@@ -38,7 +38,8 @@ Through this project, I demonstrated my ability to handle complex data queries a
 
 -  _[ad-hoc-requests.pdf](https://github.com/sreeragcr13/Ad-Hoc-Insights-/blob/main/ad-hoc-requests.pdf)_ : Document containing the 10 ad hoc business requests.
 - _[SQL Queries](https://github.com/sreeragcr13/Ad-Hoc-Insights-/blob/main/SQL%20queries..txt)_: Folder containing SQL scripts used to extract data.
-- _[Power BI Visualizationss](https://github.com/sreeragcr13/Ad-Hoc-Insights-/blob/main/Ad-hoc%20analysis%20Visualization..pbix)_: Folder containing Power BI files with data visualizations
+- _[Power BI Visualizationss](https://app.powerbi.com/view?r=eyJrIjoiYmRlOWI4YTMtZGJhNS00YzJiLWJjYjktODE5OTAzMzJmNTIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_:
+- Folder containing Power BI files with data visualizations
 - _[Power BI Visualizationss](https://app.powerbi.com/view?r=eyJrIjoiYWVkYzRkNDMtNzY5YS00MWM4LWFkNmMtZDBmM2VlMjBhYWJiIiwidCI6IjNkYWNmMGMzLWVmMjgtNDg4OC05NWE3LThiOTVmMWZhNWVlNSJ9)_.
 -  _[Presentation](https://github.com/sreeragcr13/Ad-Hoc-Insights-/blob/main/Ad-hoc%20analysis%20presentation..pptx)_: PowerPoint file showcasing insights and recommendations.
 
